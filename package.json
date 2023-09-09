@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node index.js",
+    "dev":"nodemon index.js",
     "swagger-autogen": "node swagger.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --maxWorkers=1 --coverage",
     "test:coverage": "jest --coverage"
