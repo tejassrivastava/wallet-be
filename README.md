@@ -170,11 +170,11 @@ To run tests
 **Current Test Case Result:**
 
 
-[![](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/master/TestResult.png)](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/master/TestResult.png)
+[![](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/main/TestResult.png)](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/main/TestResult.png)
 
 **Current Test Coverage Result:**
 
-[![](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/master/TestCoverage.png)](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/master/TestCoverage.png)
+[![](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/main/TestCoverage.png)](https://github.com/tejassrivastava/gohighlevel-wallet-be/blob/main/TestCoverage.png)
 
 
 ------------
