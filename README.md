@@ -32,7 +32,7 @@ Install dependencies
 
 Start the server:
 
-this command will automatically start both the frontend as well as express server.
+this command will automatically start express server.
 
 ```bash
   npm run dev
