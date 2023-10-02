@@ -1,4 +1,4 @@
-# GoHighLevel Wallet API
+# Wallet Engine Backend API
 
 This contains all the API implementation
 
